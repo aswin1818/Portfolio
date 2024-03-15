@@ -430,19 +430,3 @@ footer {
 footer p {
   text-align: center;
 }
-
-<style>
-  /* Define CSS rules to resize the Azure logo */
-  .azure-logo {
-    width: 100px; /* Adjust the width as needed */
-    height: auto; /* Maintain aspect ratio */
-  }
-</style>
-
-<div>
-  <h3>Azure (Certified)</h3>
-  <p>Intermediate</p>
-  <a href="https://learn.microsoft.com/en-us/users/aswinravichandran-1197/credentials/55059bcb032b1ccd?ref=https%3A%2F%2Fwww.linkedin.com%2F">
-    <img src="./assets/Azure-Logo.png" alt="azure logo" class="azure-logo" />
-  </a>
-</div>
